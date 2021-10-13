@@ -1,5 +1,5 @@
 # Anonybox
-[![GitHub stars](https://img.shields.io/github/stars/Praudyogikee/Anonybox)](https://github.com/Praudyogikee/Anonybox/stargazers) [![GitHub forks](https://img.shields.io/github/forks/Praudyogikee/Anonybox)](https://github.com/Praudyogikee/Anonybox/network)<br>
+[![GitHub stars](https://img.shields.io/github/stars/Zelakolase/Anonybox)](https://github.com/Zelakolase/Anonybox/stargazers) [![GitHub forks](https://img.shields.io/github/forks/Zelakolase/Anonybox)](https://github.com/Zelakolase/Anonybox/network)<br>
 ![Anonybox Banner](https://i.imgur.com/fwhtQd8.png)
 
 ## Features :
